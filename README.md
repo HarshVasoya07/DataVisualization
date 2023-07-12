@@ -1,9 +1,8 @@
 <h1>Data Visualization Using BigMart Data</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In the provided code, we are analyzing the Big Mart sales data using Python libraries such as pandas, numpy, matplotlib, and seaborn. Let's go through the generated plots and their descriptions:
+In the provided code, we are analyzing the Big Mart sales data using Python libraries such as pandas, NumPy, Matplotlib, and seaborn. Let's go through the generated plots and their descriptions:
 
 Mean Sales for Each Outlet Type:
 The first plot is a bar plot that shows the mean sales for each outlet size. The x-axis represents the different outlet sizes (Small, Medium, and High), and the y-axis represents the mean sales. The plot provides an overview of the average sales for each outlet size.
@@ -26,11 +25,3 @@ Overall, these plots provide insights into the Big Mart sales data. The first pl
 <h2>Environments Used </h2>
 
 - <b>Jupyter Notebook</b>
-
-
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
